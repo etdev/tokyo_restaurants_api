@@ -1,0 +1,88 @@
+---
+渋谷:
+  english_name: Shibuya
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/2shibuya.jpg
+恵比寿:
+  english_name: Ebisu
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/3ebisu.jpg
+代官山:
+  english_name: Daikanyama
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/4daikanyama.jpg
+代々木:
+  english_name: Yoyogi
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/7yoyogi.JPG
+表参道:
+  english_name: Omotesando
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/10omotesando.jpg
+六本木・乃木坂・西麻布:
+  english_name: Roppongi
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/11roppongi.jpg
+麻布十番:
+  english_name: Azabu-juban
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/12azabu_juban.jpg
+広尾:
+  english_name: Hiro
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/13hiro.jpg
+赤坂:
+  english_name: Akasaka
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/14akasaka.jpg
+秋葉原:
+  english_name: Akihabara
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/15akihabara.jpg
+築地:
+  english_name: Tsukiji
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/17tsukiji.jpg
+目黒:
+  english_name: Meguro
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/21nakameguro.jpg
+白金:
+  english_name: Shirokanedai
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/19shirokanedai.jpg
+五反田・高輪台:
+  english_name: Gotanda
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/20gotanda.jpg
+中目黒・祐天寺:
+  english_name: Nakameguro
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/21nakameguro.jpg
+自由が丘:
+  english_name: Jiyugaoka
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/22jiyuugaoka.JPG
+三軒茶屋:
+  english_name: Sangenjaya
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/23sangenjaya.JPG
+二子玉川:
+  english_name: Futako-tamagawa
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/24futakotamagawa.jpg
+下北沢:
+  english_name: Shimokitazawa
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/25shimokitazawa.jpg
+中野:
+  english_name: Nakano
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/21nakameguro.jpg
+銀座:
+  english_name: Ginza
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/21nakameguro.jpg
+有楽町・日比谷:
+  english_name: Yurakucho
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/1yurakucho.jpg
+原宿:
+  english_name: Harajuku
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/9harajuku.jpg
+新宿:
+  english_name: Shinjuku
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/5shinjuku.jpg
+新宿御苑:
+  english_name: Shinjuku Gyoen
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/6shinjuku_gyoen.JPG
+池袋:
+  english_name: Ikebukuro
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/17tsukiji.jpg
+品川:
+  english_name: Shinagawa
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/18shinagawa.jpg
+高田馬:
+  english_name: Takadanobaba
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/21nakameguro.jpg
+浅草:
+  english_name: Asakusa
+  thumbnail: https://s3-ap-northeast-1.amazonaws.com/tokyo-restaurants/areas/16asakusa.jpg
