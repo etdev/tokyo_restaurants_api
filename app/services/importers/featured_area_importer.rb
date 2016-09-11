@@ -1,0 +1,1 @@
+/Users/eric/projects/tokyo_restaurants_api_importers/importers/featured_area_importer.rb
