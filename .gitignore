@@ -24,3 +24,4 @@ shared
 area_importer.rb
 genre_importer.rb
 restaurant_importer.rb
+restaurant_detail_importer.rb
