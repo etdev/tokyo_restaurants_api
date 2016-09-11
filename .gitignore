@@ -19,3 +19,8 @@ shared
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Importers
+area_importer.rb
+genre_importer.rb
+restaurant_importer.rb
